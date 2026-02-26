@@ -1,7 +1,7 @@
 # sistema aluno
 
 # descrição
-aluno: joão p p soares, em sistema basico que fala o nome do aluno, idade e status da matrícula 
+aluno: joão p p soares, É um sistema basico que fala o nome do aluno, idade e status da matrícula 
 
 # como executar o projeto
 1 ve se tem o [Node.js] instalado no pc.
